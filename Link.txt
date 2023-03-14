@@ -1,0 +1,2 @@
+mklink /d C:\Users\Asus\Desktop\Git\Windows\Proyectos\Clicker\Assets\FFE C:\Users\Asus\Desktop\Git\Windows\FEGA\Assets\FFE
+mklink /d C:\Users\Asus\Desktop\Git\Windows\Proyectos\Clicker\Assets\Resources "C:\Users\Asus\Mi unidad\Flying Ferret\clicker\Resources"
